@@ -1,4 +1,4 @@
-,id,location,gender,department,grade,total_duration,most_used_group
+,id,location,gender,department,study level,total_duration,most_used_group
 0,1,1,1.0,12.0,1.0,24574986.0,3D-Printer
 2,9,1,1.0,16.0,4.0,20308298.0,3D-Printer
 3,10,1,1.0,7.0,2.0,1490776.0,Lasercutter
